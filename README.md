@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project showcases an interactive **Employee Attrition & Workforce Analytics Dashboard** developed using **Power BI** to analyze workforce demographics, employee attrition patterns, job satisfaction, and departmental performance. The dashboard provides HR professionals with actionable insights into employee turnover, workforce distribution, salary trends, and employee engagement, enabling data-driven workforce planning and retention strategies.
+This project showcases an interactive **PhonePe Transaction Analysis Dashboard** developed using **Power BI** to analyze digital payment transactions, user behavior, service performance, and payment success trends. The dashboard transforms raw transaction data into meaningful business insights through dynamic visualizations, KPI tracking, and interactive filtering. It enables stakeholders to monitor transaction performance, identify failure patterns, evaluate service-wise revenue, and support data-driven decision-making.
 
 
  [Click Here View Interactive Power BI Dashboard](https://github.com/Sanketnaik-467/Phonepay_PowerBI_Dahboard/blob/d12e41833445de7644f3ca5a4b3ce55e8ac94c5b/Phonepe_PowerBI_Dahboard.pbix)
@@ -11,27 +11,28 @@ This project showcases an interactive **Employee Attrition & Workforce Analytics
 
 ## Business Challenge
 
-Employee attrition is a critical challenge that impacts organizational productivity, recruitment costs, and workforce stability. The objective of this project was to transform raw HR data into an interactive dashboard capable of monitoring workforce metrics, identifying attrition trends across departments and job roles, and supporting strategic HR decision-making through meaningful visual insights.
+Digital payment platforms process millions of transactions every day, making it challenging to monitor transaction performance, identify payment failures, and understand customer usage patterns. The objective of this project was to develop an interactive analytics dashboard that provides a comprehensive view of transaction activity, highlights key performance indicators, analyzes user engagement, and supports business decisions through real-time insights.
 
 ## Solution
 
-Using Power BI, DAX measures, and data visualization techniques, I developed a comprehensive HR analytics dashboard that consolidates key workforce metrics into a single view. The dashboard enables users to monitor employee demographics, analyze attrition behavior by age, education, department, and job role, evaluate employee satisfaction levels, and gain valuable insights through interactive filters and KPI tracking.
+Using **Power BI, Power Query, and DAX**, transaction data was transformed into an interactive dashboard consisting of four analytical pages. The solution enables users to monitor transaction trends, evaluate payment success rates, analyze service performance, identify common failure reasons, and explore customer transaction behavior using dynamic filters and drill-down capabilities.
 
 ## Key Features
 
-• Workforce Overview with Total Employees, Active Employees, Attrition Rate, Total Attrition, Average Monthly Pay, and Average Age KPIs
+• Interactive Dashboard with dynamic slicers for Month, Date, Service, Payment Status, and Service Type.
 
-• Employee Distribution Analysis by Age Group and Gender
+• Executive KPI cards displaying Total Transactions, Transaction Value, Total Users, Success Rate, and Average Transaction Value.
 
-• Department-wise Attrition Monitoring (R&D, Sales, and HR)
+• Service-wise transaction analysis for Money Transfer, Loans, Insurance, and Recharge Bills.
 
-• Job Satisfaction Rating Assessment Across Different Job Roles
+• Failure reason analysis including Wrong PIN, Server Error, Bank Denied, and Insufficient Balance.
 
-• Education-wise Employee Attrition Analysis
+• User analytics including monthly user growth, transaction frequency, and age-group distribution.
 
-• Interactive Workforce Segmentation using Gender, Travel Status, Marital Status, and Education Filters
+• Top customer analysis based on transaction value.
 
-• Dynamic KPI Tracking and HR Performance Monitoring
+• Business Insights page highlighting key findings, recommendations, and performance summary.
+
 
 ## Dashboard Preview
 
@@ -49,5 +50,4 @@ Using Power BI, DAX measures, and data visualization techniques, I developed a c
 
 
 ## Outcome
-
-Successfully developed an end-to-end HR Analytics Dashboard that transforms workforce data into meaningful business insights. The dashboard enables effective monitoring of employee attrition, workforce demographics, employee satisfaction, and departmental performance. By providing a centralized view of key HR metrics, the solution supports strategic workforce planning, employee retention initiatives, and data-driven HR decision-making.
+Successfully designed and developed a **professional PhonePe Transaction Analysis Dashboard** that transforms complex transaction data into meaningful business intelligence. The dashboard improves visibility into payment performance, customer behavior, service utilization, and operational efficiency through interactive reporting. This project demonstrates practical expertise in **Power BI, DAX, Power Query, KPI reporting, data visualization, and business analytics**, showcasing the ability to convert raw data into actionable insights for business decision-making.
